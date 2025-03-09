@@ -1,0 +1,132 @@
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\appsettings.Development.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\appsettings.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.staticwebassets.runtime.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.staticwebassets.endpoints.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.exe
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.deps.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.runtimeconfig.json
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Lab1.pdb
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Azure.Core.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Azure.Identity.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.ApplicationInsights.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.AI.DependencyCollector.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.AI.EventCounterCollector.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.AI.PerfCounterCollector.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.AI.WindowsServer.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.ClientModel.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Memory.Data.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Security.Permissions.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\System.Windows.Extensions.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Хмарні технології\Lab1\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.csproj.AssemblyReference.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.AssemblyInfoInputs.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.AssemblyInfo.cs
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.csproj.CoreCompileInputs.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.RazorAssemblyInfo.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.RazorAssemblyInfo.cs
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.sourcelink.json
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\scopedcss\bundle\Lab1.styles.css
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets.build.json
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets.development.json
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets.build.endpoints.json
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets\msbuild.build.Lab1.props
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab1.props
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Lab1.props
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets.pack.json
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.csproj.Up2Date
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.dll
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\refint\Lab1.dll
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.pdb
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\Lab1.genruntimeconfig.cache
+E:\Хмарні технології\Lab1\Lab1\obj\Release\net8.0\ref\Lab1.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\appsettings.Development.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\appsettings.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.staticwebassets.endpoints.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.staticwebassets.runtime.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.exe
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.deps.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.runtimeconfig.json
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Lab1.pdb
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Azure.Core.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Azure.Identity.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.ApplicationInsights.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.AI.DependencyCollector.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.AI.EventCounterCollector.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.AI.PerfCounterCollector.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.AI.WindowsServer.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.ClientModel.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Memory.Data.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Security.Permissions.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\System.Windows.Extensions.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.csproj.AssemblyReference.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.AssemblyInfoInputs.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.AssemblyInfo.cs
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.csproj.CoreCompileInputs.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.RazorAssemblyInfo.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.RazorAssemblyInfo.cs
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.sourcelink.json
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\scopedcss\bundle\Lab1.styles.css
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets.build.json
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets.development.json
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets.build.endpoints.json
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets\msbuild.build.Lab1.props
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab1.props
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Lab1.props
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets.pack.json
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.csproj.Up2Date
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\refint\Lab1.dll
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.pdb
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\Lab1.genruntimeconfig.cache
+E:\Хмарні технології\Lab 1, 3\Lab1\obj\Release\net8.0\ref\Lab1.dll

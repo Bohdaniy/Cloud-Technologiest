@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labitos4", "labitos4\labitos4.csproj", "{348BAC7F-DC32-474D-B75F-E6DE186B342D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348BAC7F-DC32-474D-B75F-E6DE186B342D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348BAC7F-DC32-474D-B75F-E6DE186B342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348BAC7F-DC32-474D-B75F-E6DE186B342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348BAC7F-DC32-474D-B75F-E6DE186B342D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
