@@ -1,0 +1,71 @@
+﻿@model Lab5._2.Models.TextAnalysisModel
+
+@{
+    ViewData["Title"] = "Text Analysis";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Analyze" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="InputText" class="form-label">Text to analyze</label>
+        <textarea asp-for="InputText" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="InputText" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Analyze</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger mt-3">
+        @Model.ErrorMessage
+    </div>
+}
+
+@if (Model.Entities != null)
+{
+    <div class="mt-4">
+        @if (Model.Entities.Any())
+        {
+            <h3>Analysis Results</h3>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Entity</th>
+                            <th>Source</th>
+                            <th>Link</th>
+                            <th>Confidence</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var entity in Model.Entities)
+                        {
+                            <tr>
+                                <td>@entity.Name</td>
+                                <td>@entity.Source</td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(entity.Url))
+                                    {
+                                        <a href="@entity.Url" target="_blank">View</a>
+                                    }
+                                    else
+                                    {
+                                        <span>N/A</span>
+                                    }
+                                </td>
+                                <td>@entity.Confidence.ToString("P1")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info mt-3">
+                No linked entities found.
+            </div>
+        }
+    </div>
+}

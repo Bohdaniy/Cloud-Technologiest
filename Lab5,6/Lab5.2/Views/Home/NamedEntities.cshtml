@@ -1,0 +1,62 @@
+﻿@model Lab5._2.Models.NamedEntityModel
+
+@{
+    ViewData["Title"] = "Named Entity Recognition";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="AnalyzeNamedEntities" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="InputText" class="form-label">Text to analyze</label>
+        <textarea asp-for="InputText" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="InputText" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Analyze</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger mt-3">
+        @Model.ErrorMessage
+    </div>
+}
+
+@if (Model.Entities != null)
+{
+    <div class="mt-4">
+        @if (Model.Entities.Any())
+        {
+            <h3>Analysis Results</h3>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Text</th>
+                            <th>Category</th>
+                            <th>Subcategory</th>
+                            <th>Confidence</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var entity in Model.Entities)
+                        {
+                            <tr>
+                                <td>@entity.Text</td>
+                                <td>@entity.Category</td>
+                                <td>@entity.SubCategory</td>
+                                <td>@entity.Confidence.ToString("P1")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info mt-3">
+                No entities found in the text.
+            </div>
+        }
+    </div>
+}

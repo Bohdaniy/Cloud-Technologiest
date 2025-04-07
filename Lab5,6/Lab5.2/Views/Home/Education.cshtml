@@ -1,0 +1,110 @@
+﻿@model Lab5._2.Models.EducationModel
+
+@{
+    ViewData["Title"] = "Educational Tool";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="AnalyzeEducation" method="post">
+            <div class="form-group mb-3">
+                <label class="form-label">Виберіть текст для аналізу</label>
+                <select asp-for="SelectedTextId" class="form-control" onchange="updateSelectedText(this)">
+                    @foreach (var sample in Model.SampleTexts)
+                    {
+                        <option value="@sample.Id">@sample.Title</option>
+                    }
+                </select>
+            </div>
+
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title" id="sampleTitle">
+                        @Model.SampleTexts.First(s => s.Id == Model.SelectedTextId).Title
+                    </h5>
+                    <p class="card-text" id="sampleContent">
+                        @Model.SampleTexts.First(s => s.Id == Model.SelectedTextId).Content
+                    </p>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Аналізувати</button>
+        </form>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div class="alert alert-danger mt-3">
+            @Model.ErrorMessage
+        </div>
+    }
+
+    @if (Model.AnalysisResults != null)
+    {
+        <div class="col-md-6">
+            @if (Model.AnalysisResults.Any())
+            {
+                <h3>Результати аналізу</h3>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Сутність</th>
+                                <th>Категорія</th>
+                                <th>Важливість</th>
+                                <th>Джерело</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var result in Model.AnalysisResults)
+                            {
+                                <tr>
+                                    <td>
+                                        @if (!string.IsNullOrEmpty(result.Url))
+                                        {
+                                            <a href="@result.Url" target="_blank">@result.Name</a>
+                                        }
+                                        else
+                                        {
+                                            @result.Name
+                                        }
+                                    </td>
+                                    <td>@result.Category</td>
+                                    <td>@result.Importance.ToString("P0")</td>
+                                    <td>@result.Source</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info mt-3">
+                    Не знайдено сутностей для аналізу.
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            updateSelectedText(document.querySelector('select'));
+        });
+
+        function updateSelectedText(select) {
+            const selectedId = select.value;
+            const samples = @Html.Raw(Json.Serialize(Model.SampleTexts));
+            const selectedSample = samples.find(s => s.id == parseInt(selectedId));
+
+            if (selectedSample) {
+                document.getElementById('sampleTitle').textContent = selectedSample.title;
+                document.getElementById('sampleContent').textContent = selectedSample.content;
+            }
+        }
+    </script>
+}
